@@ -1,2 +1,2 @@
 # PortugolActivities
-Tarefas feitas no SENAC TECH
+Tasks made in Senac Tech.
